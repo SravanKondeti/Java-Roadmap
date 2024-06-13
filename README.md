@@ -1,8 +1,7 @@
 Java Developer Roadmap		
 		
-Core
-	Basics
- 		Syntax & Data Types
+Concept		Topics
+Core	Basics	Syntax & Data Types
 		Access  Modifiers
 		Variables (Local & Instance)
 		Type Casting
@@ -42,8 +41,6 @@ Core
 	Files & I/O	
 	Generics	
 	Streams	
-	Functional Interface	
-	Lambda Expressions	
 	Type Annotations	
 	Annotations	
 	Regex	
@@ -55,15 +52,27 @@ Advanced Topics	JDBC
 	JSP	
 	JMS	
 	EJB	
+	HTTP	
 	Recurrsion	
-	Singleton	
 	Remote Method Invocation (RMI)	
 	Applets	
-	Memory Management	
 	Reflection API	
 	Networking (Sockets)	
-	JVM Internals and Tuning	
+Java 8	Lambda Expressions	
+	Stream API	
+	Functional Interface	
+	Default Methods, Optional Class	
+	Static Methods in Interfaces, Method References	
+JVM Internals and Tuning	Memory Management	
+	Class Loader Subsystem	
+	Execution Engine	
+	Garbage Collection	
+	JVM Options & Flags	
+	Metaspace	
+	JVM Monitoring & Profiling	
 Additional Topics	AWT	
 	JavaFX	
-	Design Patterns	
-![image](https://github.com/SravanKondeti/Java-Roadmap/assets/131296571/7ffe32a7-360c-4ac5-a575-9978f7cd0ade)
+	Design Patterns	Singleton
+		Factory Method
+		Abstract Method
+![image](https://github.com/SravanKondeti/Java-Roadmap/assets/131296571/01bcbd7b-03a2-467d-ac69-d8a1c631c281)
