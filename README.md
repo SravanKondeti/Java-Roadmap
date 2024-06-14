@@ -1,6 +1,8 @@
 Java Developer Roadmap		
 
 https://www.notion.so/1feb16a8f9c84d13bcf5d0ca19973f6e?v=2613025d349b433db557063335e09e74		
+
+
 Concept		Topics
 Core	Basics	Syntax & Data Types
 		Access  Modifiers
