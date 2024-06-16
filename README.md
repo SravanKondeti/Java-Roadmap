@@ -112,8 +112,8 @@ Other topics
 -  AWT
 -  JavaFX
 -  Design Patterns
--  - Singleton
+   - Singleton
    - Factory Method
    - Abstract Method
-   - 
+
 ![image](https://github.com/SravanKondeti/Java-Roadmap/assets/131296571/01bcbd7b-03a2-467d-ac69-d8a1c631c281)
