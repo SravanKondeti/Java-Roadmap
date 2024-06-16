@@ -1,4 +1,4 @@
-Java Developer Roadmap		
+### Java Developer Roadmap		
 
 https://www.notion.so/1feb16a8f9c84d13bcf5d0ca19973f6e?v=2613025d349b433db557063335e09e74		
 
@@ -115,5 +115,6 @@ Other topics
    - Singleton
    - Factory Method
    - Abstract Method
-
+# 
 ![image](https://github.com/SravanKondeti/Java-Roadmap/assets/131296571/01bcbd7b-03a2-467d-ac69-d8a1c631c281)
+# 
