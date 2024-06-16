@@ -6,10 +6,13 @@ https://www.notion.so/1feb16a8f9c84d13bcf5d0ca19973f6e?v=2613025d349b433db557063
 ## Core	
 
 Basics Syntax & Data Types
-- Access  Modifiers
+- Charset
+- Literals
+- Keywords
 - Variables (Local & Instance)
 - Type Casting
 - Operators & Comments
+- Access  Modifiers
 
 Control Statements
 - If-else & Switch
