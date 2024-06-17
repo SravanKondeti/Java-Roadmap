@@ -64,6 +64,7 @@ Collections Framework
 - Queue
 - BitSet
 
+Additional Topics
 - Iterator & Comparator
 - Inner Classes
 - Files & I/O
@@ -73,8 +74,6 @@ Collections Framework
 - Annotations
 - Regex
 - Serialization
-
-Other topics
 - This
 - Super
 - Finally
@@ -91,7 +90,13 @@ Other topics
 - Remote Method Invocation (RMI)
 - Applets
 - Reflection API
-- Networking (Sockets)	
+- Networking (Sockets)
+- AWT
+- JavaFX
+- Design Patterns
+   - Singleton
+   - Factory Method
+   - Abstract Method
 
 # Java 8
 - Lambda Expressions
@@ -111,13 +116,6 @@ Other topics
 - Metaspace
 - JVM Monitoring & Profiling	
 
-# Additional Topics
--  AWT
--  JavaFX
--  Design Patterns
-   - Singleton
-   - Factory Method
-   - Abstract Method
 # 
 ![image](https://github.com/SravanKondeti/Java-Roadmap/assets/131296571/01bcbd7b-03a2-467d-ac69-d8a1c631c281)
 # 
