@@ -64,15 +64,15 @@ Collections Framework
 - Queue
 - BitSet
 
-Iterator & Comparator
-Inner Classes
-Files & I/O
-Generics
-Streams
-Type Annotations
-Annotations
-Regex
-Serialization
+- Iterator & Comparator
+- Inner Classes
+- Files & I/O
+- Generics
+- Streams
+- Type Annotations
+- Annotations
+- Regex
+- Serialization
 
 Other topics
 - This
